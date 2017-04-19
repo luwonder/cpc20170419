@@ -1,0 +1,6 @@
+#banner{
+width=100%;
+hight=500px;
+background:url('../images/banner_main.jpg') no repeat;
+background:100% auto;
+}

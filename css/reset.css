@@ -1,0 +1,14 @@
+/*RESET*/
+body{
+  margin:0;
+  padding:0;
+}
+ol{
+  list-style:none
+margin:0;
+padding:0;
+}
+a{
+color: rgb(244, 1200, 50);
+text-decoration: none;
+}
